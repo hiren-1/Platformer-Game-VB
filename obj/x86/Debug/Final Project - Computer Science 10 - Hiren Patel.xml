@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FinalProject-ComputerScience10-HirenPatel
+</name>
+</assembly>
+<members>
+<member name="P:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources.background0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources.grasstop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources.grasstop2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources.jucice_shot_red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources.Koolaid_man_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources.Koolaid_man_21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Final_Project___Computer_Science_10___Hiren_Patel.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
